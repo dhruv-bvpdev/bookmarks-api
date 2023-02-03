@@ -4,7 +4,8 @@
     "paths": {
       "@/auth/*": ["auth/*"],
       "@/bookmark/*": ["bookmark/*"],
-      "@/user/*": ["user/*"]
+      "@/user/*": ["user/*"],
+      "@/prisma/*": ["prisma/*"]
     },
     "declaration": true,
     "removeComments": true,
